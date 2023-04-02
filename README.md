@@ -7,4 +7,5 @@
 - pip install webdriver-manager
 - pip install html-testRunner
 
-https://user-images.githubusercontent.com/117381350/229364853-bdb52dcd-c4d1-4090-9775-e8828ec30ab5.mp4
+
+[![](https://markdown-videos.deta.dev/youtube/15grGY3ZxZo)](https://youtu.be/15grGY3ZxZo)
